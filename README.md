@@ -73,7 +73,7 @@ Projeto open-source sob licença MIT.
 
 ## Autor
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario) 🚀
+Desenvolvido por [Caio Silva](https://github.com/caio20538) 🚀
 
 ---
 
